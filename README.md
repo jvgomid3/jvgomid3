@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jvgomid3
-- 👀 I’m interested in learning about coding an sharing
+- 👀 I’m interested in learning about coding and sharing
 - 🌱 I’m currently learning systems development
 
 <!---
